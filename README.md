@@ -3,3 +3,5 @@
 #### Final Project 
 
 #### Kaggle Team: MASS
+
+The project involved car price prediction using classical machine learning algorithms on a Kaggle dataset. The dataset provided consisted of separate training and test sets and had a diverse set of features which could be utilized for predicting the car price. Initially, the data was processed at a high level by dropping empty feature records or feature columns and filling empty feature values using suitable encoding techniques. This was followed by a more deeper analysis where correlation of each feature was measured with the target and different feature combinations were collated to find the best set of features. 
